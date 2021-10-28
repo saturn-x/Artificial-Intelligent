@@ -1,0 +1,4 @@
+src文件夹为java源代码目录
+matrix.py、res_graph.py为绘图文件
+martrix.txt 随机生成临接矩阵文件
+tmp.txt 为计算后的结果，画图用
